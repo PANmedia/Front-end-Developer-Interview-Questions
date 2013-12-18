@@ -5,9 +5,8 @@
   1. [General Questions](#general)
   1. [Graphic Design & UX](#graphic)
   1. [HTML Questions](#html)
-  1. [CSS Questions](#css)
   1. [Email Questions](#email)
-  1. [Fun Questions](#fun)
+  1. [CSS Questions](#css)
 
 
 ####[[⬆]](#toc) <a name='general'>General Questions:</a>
@@ -22,7 +21,7 @@
 ####[[⬆]](#toc) <a name='graphic'>Graphic Design & User Experience/a>
 
 * What does "User Experience Design" mean to you? 
-* How would you explain the benefits of a user-centred design approach to a project manager/client who is unfamiliar with it?
+* How would you explain the *benefits* of a user-centred design approach to a project manager/client who is unfamiliar with it?
 * What are some visual design principles that you would try to follow when designing web pages?
 * Explain the difference between lossy and lossless image compression
 * Briefly outline your workflow for web-optimising the following image:
@@ -69,6 +68,10 @@ The following HTML5 is not quite valid. Circle the issues that make it invalid.
 </body>
 ```
 
+####[[⬆]](#toc) <a name='email'>Email</a>
+
+* Briefly outline the biggest differences between writing HTML/CSS for a web page and writing HTML/CSS for an Email template
+
 
 ####[[⬆]](#toc) <a name='css'>CSS Questions:</a>
 
@@ -87,15 +90,3 @@ The following HTML5 is not quite valid. Circle the issues that make it invalid.
 * Using CSS properties alone, recreate this button:
 
 ![Button](https://raw.github.com/PANmedia/Front-end-Developer-Interview-Questions/master/css-button.png)
-
-
-####[[⬆]](#toc) <a name='email'>Email</a>
-
-* Briefly outline the biggest differences between writing HTML/CSS for a web page and writing HTML/CSS for an Email template
-
-
-####[[⬆]](#toc) <a name='fun'>Fun Questions (optional!)</a>
-
-* What are your favorite parts about the developer tools you use?
-* Do you have any pet projects? What kind?
-* What's your favorite feature of Internet Explorer?
