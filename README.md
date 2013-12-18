@@ -86,7 +86,7 @@ The following HTML5 is not quite valid. Circle the issues that make it invalid.
   * If so, describe what you like and dislike about the CSS preprocessors you have used. 
 * Using CSS properties alone, recreate this button:
 
-![Button](https://raw.github.com/PANmedia/Front-end-Developer-Interview-Questions/master/css-button.jpg)
+![Button](https://raw.github.com/PANmedia/Front-end-Developer-Interview-Questions/master/css-button.png)
 
 
 ####[[⬆]](#toc) <a name='email'>Email</a>
