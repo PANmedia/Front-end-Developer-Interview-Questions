@@ -1,15 +1,13 @@
-#Pan Front-end Interview Questions
+#Pan Front-end Proficiency Test
 
-## <a name='toc'>Table of Contents</a>
+Don’t panic! This is just to give us an idea of where your strengths are. We encourage you to ask questions; we won’t give you the answers but we want to make sure you understand the questions completely.     
 
-  1. [General Questions](#general)
-  1. [Graphic Design & UX](#graphic)
-  1. [HTML Questions](#html)
-  1. [Email Questions](#email)
-  1. [CSS Questions](#css)
+When you’re done, we’ll go through your answers with you and you’ll have opportunities to discuss your answers with us in more detail.     
+
+There is no time limit but your overall time will be taken into consideration.      
 
 
-####[[⬆]](#toc) <a name='general'>General Questions:</a>
+####General Questions:
 
 * What's the coolest thing you've ever coded, what are you most proud of?
 * What did you learn yesterday/this week?
@@ -18,7 +16,7 @@
 * Name 3 ways to decrease page load. (perceived or actual load time)
 
 
-####[[⬆]](#toc) <a name='graphic'>Graphic Design & User Experience/a>
+####Graphic Design & User Experience
 
 * What does "User Experience Design" mean to you? 
 * How would you explain the benefits of a user-centred design approach to a project manager or client who is unfamiliar with it?
@@ -29,7 +27,7 @@
 ![Optimise](https://raw.github.com/PANmedia/Front-end-Developer-Interview-Questions/master/Lenna.png)
 
 
-####[[⬆]](#toc) <a name='html'>HTML5</a>
+####HTML5
 
 The following HTML5 is not quite valid. Circle the issues that make it invalid.
 
@@ -68,12 +66,12 @@ The following HTML5 is not quite valid. Circle the issues that make it invalid.
 </body>
 ```
 
-####[[⬆]](#toc) <a name='email'>Email</a>
+####Email
 
 * Briefly outline the biggest differences between writing HTML/CSS for a web page and writing HTML/CSS for an Email template
 
 
-####[[⬆]](#toc) <a name='css'>CSS Questions:</a>
+####CSS Questions:
 
 * Briefly describe:
   * What a "reset" CSS file does and how it's useful.
