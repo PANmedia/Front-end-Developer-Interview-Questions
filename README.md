@@ -21,7 +21,7 @@
 ####[[⬆]](#toc) <a name='graphic'>Graphic Design & User Experience/a>
 
 * What does "User Experience Design" mean to you? 
-* How would you explain the *benefits* of a user-centred design approach to a project manager/client who is unfamiliar with it?
+* How would you explain the benefits of a user-centred design approach to a project manager or client who is unfamiliar with it?
 * What are some visual design principles that you would try to follow when designing web pages?
 * Explain the difference between lossy and lossless image compression
 * Briefly outline your workflow for web-optimising the following image:
@@ -80,10 +80,10 @@ The following HTML5 is not quite valid. Circle the issues that make it invalid.
   * Floats and how they work.
   * CSS sprites, and how you would implement them on a page or site.
   * How you would implement a web design that uses non-standard fonts?
-* Identify some css properties that are useful in modern browsers that aren't supported in some common feature-constrained browsers (eg ie8)
+* Identify some CSS properties that are useful in modern browsers but aren't supported in some common feature-constrained browsers (eg: ie8)
 * Have you ever used a grid system, and if so, what do you prefer and why?
 * What does "Responsive" web design mean to you?
-  * Have you used or implemented media queries or mobile specific layouts/CSS? If so, what is your preferred approach?
+  * Have you used or implemented media queries or mobile specific layouts/CSS? If so, briefly outline about your approach?
 * What are some of the "gotchas" for writing efficient CSS? (Bonus points - what are some common CSS techniques for increasing render performance?)
 * Are you familiar with any of the following CSS preprocessors: SASS, Compass, Bourbon, Stylus, LESS? 
   * If so, describe what you like and dislike about the CSS preprocessors you have used. 
