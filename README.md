@@ -26,7 +26,8 @@
 * What are some visual design principles that you would try to follow when designing web pages?
 * Explain the difference between lossy and lossless image compression
 * Briefly outline your workflow for web-optimising the following image:
-![Optimise](/Lenna.jpg)
+
+![Optimise](https://raw.github.com/PANmedia/Front-end-Developer-Interview-Questions/master/Lenna.png)
 
 
 ####[[⬆]](#toc) <a name='html'>HTML5</a>
@@ -84,7 +85,8 @@ The following HTML5 is not quite valid. Circle the issues that make it invalid.
 * Are you familiar with any of the following CSS preprocessors: SASS, Compass, Bourbon, Stylus, LESS? 
   * If so, describe what you like and dislike about the CSS preprocessors you have used. 
 * Using CSS properties alone, recreate this button:
-![Button](/css-button.jpg)
+
+![Button](https://raw.github.com/PANmedia/Front-end-Developer-Interview-Questions/master/css-button.jpg)
 
 
 ####[[⬆]](#toc) <a name='email'>Email</a>
